@@ -1440,3 +1440,4 @@ export default function App() {
     </div>
   );
 }
+export default G;

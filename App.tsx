@@ -2,7 +2,7 @@ import { useState, useReducer, useEffect, useRef, useCallback } from "react";
 
 /* ═══════════════════════════════════════════════════════════════════════════
    SMARTCYCLE NEXUS — SINGULARITY EDITION 
-   Aesthetic: Luxury editorial · Swiss precision · Bloomberg meets Patek Philippe
+   Aesthetic: Luxury editorial · Swiss precision · Bloomberg meets Patek Philippe 
    Fonts: Playfair Display (display) · DM Mono (data) · Source Serif 4 (body)
    Palette: Ivory/cream canvas · Deep ink · Vermillion alert · Viridian signal
    ═══════════════════════════════════════════════════════════════════════════ */
